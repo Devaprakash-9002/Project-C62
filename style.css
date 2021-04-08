@@ -1,0 +1,14 @@
+img {
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: coral;
+}
